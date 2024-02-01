@@ -39,3 +39,4 @@ public class Application01 {
 //        int AGE = AGE + 10;  //아까 AGE 를 선언했기때문에 xxxx
     }
 }
+
